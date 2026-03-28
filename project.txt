@@ -1,0 +1,15 @@
+bank-client-classification/
+│
+├── data/
+│   └── bank-additional-full.csv
+│
+├── notebooks/
+│   └── project.ipynb   (or your .py file)
+│
+├── outputs/
+│   ├── decision_tree.png
+│   └── decision_tree_graphviz.png
+│
+├── requirements.txt
+├── README.md
+└── main.py  (optional)
